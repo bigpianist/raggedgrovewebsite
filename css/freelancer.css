@@ -621,6 +621,16 @@ header .view .overlay {
   z-index: 1;
 }
 
+header .view .overlay-2 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 25.9%;
+  top: 57%;
+  background-color: black;
+  opacity: 0.5;
+}
+
 .container-fluid {
   width: 100%;
   padding-right: 15px;
